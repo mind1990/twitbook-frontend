@@ -1,14 +1,13 @@
-Twitbook is an app to let users connect, share and comment other users' posts
+Twitbook
 -
-Main technologies implemented
--
-MongoDB, Express, React + Redux, Node,
+Twitbook is an app to let users to post(twit), like, unlike and comment other users' posts
 
-Online database host
+Technologies implemented
 -
-mlab.com
-
-Avatar web service
--
-gravatar.com
-
+- MongoDB
+- Express
+- React
+- Redux, Node,
+- mlab.com
+- gravatar.com
+- jwt web token
