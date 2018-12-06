@@ -7,8 +7,10 @@ Technologies implemented
 - MongoDB
 - Express
 - React
-- Redux, Node,
+- Redux
+- Node.js
 - mlab.com
 - gravatar.com
 - jwt web token
 - bootstrap
+- axios
