@@ -11,3 +11,4 @@ Technologies implemented
 - mlab.com
 - gravatar.com
 - jwt web token
+- bootstrap
