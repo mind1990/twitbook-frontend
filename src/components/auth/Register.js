@@ -20,6 +20,12 @@ class Register extends Component {
     this.onSubmit = this.onSubmit.bind(this);
   }
 
+  componentDidMount() {
+    if (this.props.auth.isAuthenticated) {
+      this.props.history.push('/dashboard');
+    }
+  }
+
   // Runs when a component receives new property
   componentWillReceiveProps(nextProps) {
     if (nextProps.errors) {
