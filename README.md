@@ -1,6 +1,8 @@
 <h1>Project-4 - Twitbook</h1>
 The fifth and individual project for General Assembly's Web Development Immersive. Twitbook is an app to let users to sign up, edit profile, post(twit), like, unlike and comment other users' posts.
 
+![twitbook](https://user-images.githubusercontent.com/27410207/50103926-a0483e00-01dd-11e9-98a5-19e71166e471.jpg)
+
 <h2>Technologies used</h2>
 <ul>
   <li>React</li>
